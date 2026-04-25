@@ -1,0 +1,17 @@
+# Core dependencies
+google-api-python-client>=2.100.0   # YouTube Data API v3
+python-dotenv>=1.0.0                # .env file loading
+requests>=2.31.0                    # HTTP requests
+
+# Optional — AI-powered message generation (highly recommended)
+anthropic>=0.25.0                   # Claude API for personalized outreach
+
+# Optional — Email automation
+# (uses stdlib smtplib for Gmail — no extra package needed)
+
+# Optional — Instagram DM automation
+# instagrapi>=2.0.0                 # Uncomment to enable IG DMs
+
+# Dev / output
+tabulate>=0.9.0                     # Console table formatting
+colorama>=0.4.6                     # Colored terminal output
