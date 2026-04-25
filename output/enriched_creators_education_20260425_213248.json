@@ -1,0 +1,427 @@
+[
+  {
+    "platform": "YouTube",
+    "channel_name": "Poonam study centre",
+    "profile_url": "https://www.youtube.com/channel/UCgZxYvRje_AIzw0YNc76SOw",
+    "subscriber_count": 64000,
+    "engagement_rate_pct": 40.94,
+    "content_themes": [
+      "Olympiad Preparation",
+      "CBSE Board Prep",
+      "Math & Reasoning",
+      "Science Education"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": null,
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation",
+      "reasoning_skills"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.347,
+    "fit_score": 0.657,
+    "fit_grade": "B",
+    "component_scores": {
+      "keyword_match": 0.143,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 1.0
+    },
+    "primary_collab_strategy": "Affiliate Program",
+    "all_strategies": [
+      "Affiliate Program",
+      "Paid Sponsorship",
+      "Assessment Ecosystem Partnership"
+    ],
+    "outreach": {
+      "email_subject": "Collaboration opportunity for Poonam study centre × SPARK Olympiads",
+      "email_body": "Hi Poonam study centre,\n\nYour 64,000 subscribers clearly value your expertise in Olympiad & Competitive Prep — and that's exactly why I'm reaching out.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nCan I share more details about our creator program? Happy to tailor it around your content style.\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 84,
+      "instagram_dm": "Hey Poonam! Loved your 95 %Fail ! Percentage Square R content 🙌 We'd love to collaborate with you on paid sponsorship — DM back if interested!",
+      "dm_word_count": 26
+    },
+    "recent_video_title": "95 %Fail ! Percentage Square Root Trap |square root of percentage|#mathstrick",
+    "recent_video_date": "2026-04-25T12:45:54Z",
+    "days_since_last_post": 0
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "Indian Janata Platform",
+    "profile_url": "https://www.youtube.com/channel/UCB3CQeZtWGx0kZpH9P9fNBw",
+    "subscriber_count": 11200,
+    "engagement_rate_pct": 37.15,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Student Competitions",
+      "Makeup Tutorials"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": "waniyaasir115@gmail.com",
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation",
+      "student_competition"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.208,
+    "fit_score": 0.638,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.095,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 1.0
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Your Olympiad & Competitive Prep content + SPARK Olympiads = perfect fit 🤝",
+      "email_body": "Hi Indian Janata Platform,\n\nYour recent video on 'Raghav Chadda Joins BJP from AAP #youtubeshorts #s' stood out to me — the way you break down olympiad readiness for your students is exceptional.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nI'd love to send over a collaboration brief — let me know if you're interested!\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 91,
+      "instagram_dm": "Hi Indian 👋 Big fan of your Olympiad & Competitive Prep videos. We have an exciting paid sponsorship opportunity — interested?",
+      "dm_word_count": 21
+    },
+    "recent_video_title": "Raghav Chadda Joins BJP from AAP #youtubeshorts #shorts #assaduddinowaisi Assaduddin owaisi &amp; Raghav",
+    "recent_video_date": "2026-04-25T03:27:00Z",
+    "days_since_last_post": 0
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "Bachpan - Arnav Nayak",
+    "profile_url": "https://www.youtube.com/channel/UCGJ1rDOQ9I_dCTOw0Thw2eA",
+    "subscriber_count": 22900,
+    "engagement_rate_pct": 60.95,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Math & Reasoning",
+      "Science Education",
+      "Student Competitions"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": null,
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "exam_preparation",
+      "olympiad_readiness",
+      "reasoning_skills"
+    ],
+    "primary_intent": "exam_preparation",
+    "signal_strength": 0.417,
+    "fit_score": 0.637,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.143,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Collaboration opportunity for Bachpan - Arnav Nayak × SPARK Olympiads",
+      "email_body": "Hi Bachpan - Arnav Nayak,\n\nYour recent video on 'Too dangerous but exciting | After my annual exam ' stood out to me — the way you break down exam preparation for your students is exceptional.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nWould you be open to a quick 15-minute call this week to explore this further?\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 94,
+      "instagram_dm": "Hey Bachpan! Loved your Too dangerous but exciting | A content 🙌 We'd love to collaborate with you on paid sponsorship — DM back if interested!",
+      "dm_word_count": 26
+    },
+    "recent_video_title": "Too dangerous but exciting | After my annual exam | Arnav Nayak",
+    "recent_video_date": "2026-03-26T15:42:32Z",
+    "days_since_last_post": 30
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "G-Ro Academy",
+    "profile_url": "https://www.youtube.com/channel/UCQ2tXuPJeSnuwXusVCGvW9w",
+    "subscriber_count": 15100,
+    "engagement_rate_pct": 31.15,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Math & Reasoning",
+      "Science Education",
+      "Student Competitions"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": "groacadmy@gmail.com",
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation",
+      "reasoning_skills"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.278,
+    "fit_score": 0.637,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.143,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "SPARK Olympiads × G-Ro Academy: Let's create something great",
+      "email_body": "Hi G-Ro Academy,\n\nI've been following your content on YouTube and genuinely love how you approach olympiad readiness.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nCan I share more details about our creator program? Happy to tailor it around your content style.\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 78,
+      "instagram_dm": "Hi G-Ro 👋 Big fan of your Olympiad & Competitive Prep videos. We have an exciting paid sponsorship opportunity — interested?",
+      "dm_word_count": 21
+    },
+    "recent_video_title": "प्रधानमंत्री इंटर्नशिप योजना 3.0: युवाओं के लिए करियर की नई उड़ान — वे 5 बातें जो आपको जाननी चाहिए",
+    "recent_video_date": "2026-04-10T06:07:36Z",
+    "days_since_last_post": 15
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "Pluto Academy",
+    "profile_url": "https://www.youtube.com/channel/UCiz4iC-EUB2-1NGVoHcGwBw",
+    "subscriber_count": 5210,
+    "engagement_rate_pct": 12.75,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Science Education",
+      "Student Competitions",
+      "Makeup Tutorials"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": null,
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation",
+      "student_competition"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.208,
+    "fit_score": 0.618,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.095,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Your Olympiad & Competitive Prep content + SPARK Olympiads = perfect fit 🤝",
+      "email_body": "Hi Pluto Academy,\n\nYour 5,210 subscribers clearly value your expertise in Olympiad & Competitive Prep — and that's exactly why I'm reaching out.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nI'd love to send over a collaboration brief — let me know if you're interested!\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 81,
+      "instagram_dm": "Hi Pluto 👋 Big fan of your Olympiad & Competitive Prep videos. We have an exciting paid sponsorship opportunity — interested?",
+      "dm_word_count": 21
+    },
+    "recent_video_title": "3 videos to improve communication skills",
+    "recent_video_date": "2026-03-29T13:08:55Z",
+    "days_since_last_post": 27
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "Educationiya",
+    "profile_url": "https://www.youtube.com/channel/UCdOgbRkYsrpDsTfitQq5row",
+    "subscriber_count": 13300,
+    "engagement_rate_pct": 100.0,
+    "content_themes": [
+      "Olympiad Preparation",
+      "CBSE Board Prep"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": null,
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.278,
+    "fit_score": 0.618,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.095,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Partnership proposal for Educationiya | SPARK Olympiads",
+      "email_body": "Hi Educationiya,\n\nYour 13,300 subscribers clearly value your expertise in Olympiad & Competitive Prep — and that's exactly why I'm reaching out.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nCan I share more details about our creator program? Happy to tailor it around your content style.\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 82,
+      "instagram_dm": "Hey Educationiya! Your audience is a perfect fit for SPARK Olympiads's mission. Would love to chat about paid sponsorship!",
+      "dm_word_count": 19
+    },
+    "recent_video_title": "IIT-NIT के अलावा टॉप 10 इंजीनियरिंग कॉलेज / Top 10 Engineering Colleges (Non-IIT/NIT) 🎓  #Shorts",
+    "recent_video_date": "2026-04-15T12:59:29Z",
+    "days_since_last_post": 10
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "Rajni007 Maths Tutorials",
+    "profile_url": "https://www.youtube.com/channel/UCAnEeqwYkP6Tw39h2Q18UJQ",
+    "subscriber_count": 12400,
+    "engagement_rate_pct": 18.08,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Math & Reasoning",
+      "Student Competitions",
+      "Makeup Tutorials"
+    ],
+    "niche_classification": "Reasoning & Aptitude",
+    "contact_email": null,
+    "segment": "B",
+    "segment_label": "Reasoning & Aptitude",
+    "detected_intents": [
+      "reasoning_skills",
+      "olympiad_readiness",
+      "exam_preparation"
+    ],
+    "primary_intent": "reasoning_skills",
+    "signal_strength": 0.556,
+    "fit_score": 0.605,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.238,
+      "segment_align": 0.7,
+      "engagement_rate": 1.0,
+      "recency": 1.0
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "UGC Partnerships"
+    ],
+    "outreach": {
+      "email_subject": "Collaboration opportunity for Rajni007 Maths Tutorials × SPARK Olympiads",
+      "email_body": "Hi Rajni007 Maths Tutorials,\n\nAs someone who works with creators in the Reasoning & Aptitude space, I was impressed by your reasoning skills content.\n\nWe provide reasoning skill-builders that perfectly complement the aptitude content you create. We'd love to partner with you for a ugc partnerships that adds real value to your audience.\n\nCan I share more details about our creator program? Happy to tailor it around your content style.\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 75,
+      "instagram_dm": "Hi Rajni007 👋 Big fan of your Reasoning & Aptitude videos. We have an exciting ugc partnerships opportunity — interested?",
+      "dm_word_count": 20
+    },
+    "recent_video_title": "What is the total weight?#shortsfeed #explorepage #trendingnow#trickshots #puzzlegame#ytviral#iqtest",
+    "recent_video_date": "2026-04-25T12:40:34Z",
+    "days_since_last_post": 0
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "Trivia Munch",
+    "profile_url": "https://www.youtube.com/channel/UCt35QJ7n-P0ui-gEhYEt-Zg",
+    "subscriber_count": 32600,
+    "engagement_rate_pct": 38.58,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Science Education"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": "vyaparmunch@gmail.com",
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.208,
+    "fit_score": 0.599,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.048,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "SPARK Olympiads × Trivia Munch: Let's create something great",
+      "email_body": "Hi Trivia Munch,\n\nAs someone who works with creators in the Olympiad & Competitive Prep space, I was impressed by your olympiad readiness content.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nCan I share more details about our creator program? Happy to tailor it around your content style.\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 84,
+      "instagram_dm": "Hi Trivia, your Olympiad & Competitive Prep content is exactly what we're looking for at SPARK Olympiads! Open to a collab? 🤝",
+      "dm_word_count": 22
+    },
+    "recent_video_title": "Science Quiz -Why are bananas slightly radioactive? #sciencequiz #scienceknowledge #sciencefacts",
+    "recent_video_date": "2026-04-09T17:12:13Z",
+    "days_since_last_post": 15
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "Indian Talent Olympiad ITO",
+    "profile_url": "https://www.youtube.com/channel/UCe-myeN7N27Uoo5npQdC52Q",
+    "subscriber_count": 10800,
+    "engagement_rate_pct": 1.49,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Math & Reasoning",
+      "Science Education",
+      "Student Competitions"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": null,
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation",
+      "reasoning_skills"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.347,
+    "fit_score": 0.569,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.143,
+      "segment_align": 1.0,
+      "engagement_rate": 0.561,
+      "recency": 1.0
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Collaboration opportunity for Indian Talent Olympiad ITO × SPARK Olympiads",
+      "email_body": "Hi Indian Talent Olympiad ITO,\n\nYour recent video on 'Honored with the Best Principal Award at the India' stood out to me — the way you break down olympiad readiness for your students is exceptional.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nLet me know if you'd like to explore a paid sponsorship or barter arrangement — completely flexible!\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 95,
+      "instagram_dm": "Hi Indian 👋 Big fan of your Olympiad & Competitive Prep videos. We have an exciting paid sponsorship opportunity — interested?",
+      "dm_word_count": 21
+    },
+    "recent_video_title": "Honored with the Best Principal Award at the Indian Talent Olympiad Excellence Awards",
+    "recent_video_date": "2026-04-21T08:40:53Z",
+    "days_since_last_post": 4
+  }
+]

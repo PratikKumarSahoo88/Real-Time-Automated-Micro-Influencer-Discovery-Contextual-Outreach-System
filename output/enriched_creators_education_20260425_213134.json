@@ -1,0 +1,326 @@
+[
+  {
+    "platform": "YouTube",
+    "channel_name": "ReasoningMaster",
+    "profile_url": "https://www.youtube.com/channel/UC_mock_0002",
+    "subscriber_count": 23000,
+    "engagement_rate_pct": 100.0,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Math & Reasoning"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": "reasoningmaster.in@gmail.com",
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "reasoning_skills",
+      "exam_preparation"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.417,
+    "fit_score": 0.657,
+    "fit_grade": "B",
+    "component_scores": {
+      "keyword_match": 0.143,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 1.0
+    },
+    "primary_collab_strategy": "Affiliate Program",
+    "all_strategies": [
+      "Affiliate Program",
+      "Paid Sponsorship",
+      "Assessment Ecosystem Partnership"
+    ],
+    "outreach": {
+      "email_subject": "Your Olympiad & Competitive Prep content + SPARK Olympiads = perfect fit 🤝",
+      "email_body": "Hi ReasoningMaster,\n\nAs someone who works with creators in the Olympiad & Competitive Prep space, I was impressed by your olympiad readiness content.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nCan I share more details about our creator program? Happy to tailor it around your content style.\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 83,
+      "instagram_dm": "Hi ReasoningMaster, your Olympiad & Competitive Prep content is exactly what we're looking for at SPARK Olympiads! Open to a collab? 🤝",
+      "dm_word_count": 22
+    },
+    "recent_video_title": "Top 20 Reasoning Questions for NTSE 2024 | With Tricks",
+    "recent_video_date": "2026-04-22T16:01:34Z",
+    "days_since_last_post": 3
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "ExamCracker",
+    "profile_url": "https://www.youtube.com/channel/UC_mock_0007",
+    "subscriber_count": 34000,
+    "engagement_rate_pct": 64.5,
+    "content_themes": [
+      "Olympiad Preparation",
+      "CBSE Board Prep",
+      "Student Competitions",
+      "Makeup Tutorials"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": "examcracker@outlook.com",
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation",
+      "student_competition"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.347,
+    "fit_score": 0.656,
+    "fit_grade": "B",
+    "component_scores": {
+      "keyword_match": 0.19,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Affiliate Program",
+    "all_strategies": [
+      "Affiliate Program",
+      "Paid Sponsorship",
+      "Assessment Ecosystem Partnership"
+    ],
+    "outreach": {
+      "email_subject": "Collaboration opportunity for ExamCracker × SPARK Olympiads",
+      "email_body": "Hi ExamCracker,\n\nI've been following your content on YouTube and genuinely love how you approach olympiad readiness.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nWould you be open to a quick 15-minute call this week to explore this further?\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 75,
+      "instagram_dm": "Hi ExamCracker 👋 Big fan of your Olympiad & Competitive Prep videos. We have an exciting paid sponsorship opportunity — interested?",
+      "dm_word_count": 21
+    },
+    "recent_video_title": "NTSE Stage 1: Last 10 Years SAT Paper Analysis",
+    "recent_video_date": "2026-04-12T16:01:34Z",
+    "days_since_last_post": 13
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "OlympiadGuru",
+    "profile_url": "https://www.youtube.com/channel/UC_mock_0000",
+    "subscriber_count": 42000,
+    "engagement_rate_pct": 100.0,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Math & Reasoning"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": "olympiadguru@gmail.com",
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation",
+      "reasoning_skills"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.278,
+    "fit_score": 0.637,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.143,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Partnership proposal for OlympiadGuru | SPARK Olympiads",
+      "email_body": "Hi OlympiadGuru,\n\nI've been following your content on YouTube and genuinely love how you approach olympiad readiness.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nI'd love to send over a collaboration brief — let me know if you're interested!\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 75,
+      "instagram_dm": "Hi OlympiadGuru, your Olympiad & Competitive Prep content is exactly what we're looking for at SPARK Olympiads! Open to a collab? 🤝",
+      "dm_word_count": 22
+    },
+    "recent_video_title": "IMO 2024 Preparation Strategy for Class 8 Students | Complete Roadmap",
+    "recent_video_date": "2026-04-12T16:01:34Z",
+    "days_since_last_post": 13
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "CompetitiveKids",
+    "profile_url": "https://www.youtube.com/channel/UC_mock_0006",
+    "subscriber_count": 8500,
+    "engagement_rate_pct": 30.82,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Student Competitions"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": null,
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation",
+      "student_competition"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.347,
+    "fit_score": 0.637,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.143,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Partnership proposal for CompetitiveKids | SPARK Olympiads",
+      "email_body": "Hi CompetitiveKids,\n\nYour recent video on 'IMO Gold Medalist Shares His 6-Month Study Plan' stood out to me — the way you break down olympiad readiness for your students is exceptional.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nLet me know if you'd like to explore a paid sponsorship or barter arrangement — completely flexible!\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 91,
+      "instagram_dm": "Hey CompetitiveKids! Your audience is a perfect fit for SPARK Olympiads's mission. Would love to chat about paid sponsorship!",
+      "dm_word_count": 19
+    },
+    "recent_video_title": "IMO Gold Medalist Shares His 6-Month Study Plan",
+    "recent_video_date": "2026-04-15T16:01:34Z",
+    "days_since_last_post": 10
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "ScienceOlympics",
+    "profile_url": "https://www.youtube.com/channel/UC_mock_0003",
+    "subscriber_count": 15000,
+    "engagement_rate_pct": 38.78,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Science Education"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": null,
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "olympiad_readiness",
+      "exam_preparation"
+    ],
+    "primary_intent": "olympiad_readiness",
+    "signal_strength": 0.278,
+    "fit_score": 0.619,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.048,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 1.0
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Partnership proposal for ScienceOlympics | SPARK Olympiads",
+      "email_body": "Hi ScienceOlympics,\n\nYour recent video on 'NSO 2024: Biology Questions Every Student Gets Wro' stood out to me — the way you break down olympiad readiness for your students is exceptional.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nLet me know if you'd like to explore a paid sponsorship or barter arrangement — completely flexible!\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 91,
+      "instagram_dm": "Hey ScienceOlympics! Your audience is a perfect fit for SPARK Olympiads's mission. Would love to chat about paid sponsorship!",
+      "dm_word_count": 19
+    },
+    "recent_video_title": "NSO 2024: Biology Questions Every Student Gets Wrong",
+    "recent_video_date": "2026-04-22T16:01:34Z",
+    "days_since_last_post": 3
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "StudentSuccess",
+    "profile_url": "https://www.youtube.com/channel/UC_mock_0004",
+    "subscriber_count": 56000,
+    "engagement_rate_pct": 66.91,
+    "content_themes": [
+      "Olympiad Preparation",
+      "Student Competitions"
+    ],
+    "niche_classification": "Olympiad & Competitive Prep",
+    "contact_email": null,
+    "segment": "A",
+    "segment_label": "Olympiad & Competitive Prep",
+    "detected_intents": [
+      "student_competition",
+      "olympiad_readiness",
+      "exam_preparation"
+    ],
+    "primary_intent": "student_competition",
+    "signal_strength": 0.278,
+    "fit_score": 0.618,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.095,
+      "segment_align": 1.0,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "Paid Sponsorship"
+    ],
+    "outreach": {
+      "email_subject": "Partnership proposal for StudentSuccess | SPARK Olympiads",
+      "email_body": "Hi StudentSuccess,\n\nAs someone who works with creators in the Olympiad & Competitive Prep space, I was impressed by your student competition content.\n\nOur platform helps students prepare for olympiads with AI-adaptive practice tests — a natural fit for your audience of serious learners. We'd love to partner with you for a paid sponsorship that adds real value to your audience.\n\nI'd love to send over a collaboration brief — let me know if you're interested!\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 81,
+      "instagram_dm": "Hi StudentSuccess, your Olympiad & Competitive Prep content is exactly what we're looking for at SPARK Olympiads! Open to a collab? 🤝",
+      "dm_word_count": 22
+    },
+    "recent_video_title": "Top 10 National Level Competitions for School Students 2024",
+    "recent_video_date": "2026-04-14T16:01:34Z",
+    "days_since_last_post": 11
+  },
+  {
+    "platform": "YouTube",
+    "channel_name": "MathWizard India",
+    "profile_url": "https://www.youtube.com/channel/UC_mock_0005",
+    "subscriber_count": 91000,
+    "engagement_rate_pct": 98.62,
+    "content_themes": [
+      "Olympiad Preparation",
+      "CBSE Board Prep",
+      "Math & Reasoning"
+    ],
+    "niche_classification": "Reasoning & Aptitude",
+    "contact_email": "mathwizardindia@gmail.com",
+    "segment": "B",
+    "segment_label": "Reasoning & Aptitude",
+    "detected_intents": [
+      "exam_preparation",
+      "reasoning_skills",
+      "olympiad_readiness"
+    ],
+    "primary_intent": "exam_preparation",
+    "signal_strength": 0.417,
+    "fit_score": 0.585,
+    "fit_grade": "C",
+    "component_scores": {
+      "keyword_match": 0.238,
+      "segment_align": 0.7,
+      "engagement_rate": 1.0,
+      "recency": 0.8
+    },
+    "primary_collab_strategy": "Barter Collaboration",
+    "all_strategies": [
+      "Barter Collaboration",
+      "Product Trials",
+      "UGC Partnerships"
+    ],
+    "outreach": {
+      "email_subject": "SPARK Olympiads × MathWizard India: Let's create something great",
+      "email_body": "Hi MathWizard India,\n\nI've been following your content on YouTube and genuinely love how you approach exam preparation.\n\nWe provide reasoning skill-builders that perfectly complement the aptitude content you create. We'd love to partner with you for a ugc partnerships that adds real value to your audience.\n\nWould you be open to a quick 15-minute call this week to explore this further?\n\nBest,\nSPARK Olympiads Partnerships Team",
+      "email_word_count": 67,
+      "instagram_dm": "Hi MathWizard 👋 Big fan of your Reasoning & Aptitude videos. We have an exciting ugc partnerships opportunity — interested?",
+      "dm_word_count": 20
+    },
+    "recent_video_title": "Mental Math Tricks: Multiply Any 2-Digit Numbers in 3 Seconds",
+    "recent_video_date": "2026-04-09T16:01:34Z",
+    "days_since_last_post": 16
+  }
+]
